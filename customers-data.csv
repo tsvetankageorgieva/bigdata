@@ -1,0 +1,11 @@
+customer_id,name,age,purchase_amount,product_category,purchase_date
+1,Ivan Petrov,25,100,Electronics,2025-01-05
+2,Maria Ivanova,30,200,Clothing,2025-01-06
+2,Maria Ivanova,30,200,Clothing,2025-01-06
+3,Georgi Georgiev,40,150,Books,2025-01-07
+4,Anna Koleva,-5,50,Electronics,2025-01-08
+5,,28,,Clothing,2025-01-09
+6,Petar Dimitrov,35,300,Books,2025-01-10
+7,Ivan Petrov,,120,Electronics,2025-01-11
+8,Maria Ivanova,32,250,Clothing,
+9,Georgi Georgiev,40,180,Electronics,2025-01-12
